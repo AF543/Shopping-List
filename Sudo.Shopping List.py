@@ -38,7 +38,7 @@ def mainMenu():
             sys.exit()
         else:
             print("You did not make a valid selection.")
-shopping_list = ["tissues", "bread", "jam", "coffee", "bottle water","tomatoes","patatoes"] # Add items to shopping list
+shopping_list = ["tissues", "bread", "jam", "coffee", "bottle water","tomatoes","potatoes"] # Add items to shopping list
 
 # Show all items on the shopping list
 def showList ():
